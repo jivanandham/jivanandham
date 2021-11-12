@@ -11,5 +11,5 @@
 - **Database Technologies**: `MySQL` , `MongoDB`
 
 
-- **Programming Profiles ** :  
+**Programming Profiles **
 - [LeetCode](https://leetcode.com/jivanandham/), 
