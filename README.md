@@ -12,10 +12,11 @@
 
 ## 📚 Featured Projects
 Here are some of my best projects:
+- **[RTU Detection Application](https://github.com/jivanandham/rtu-detection-app)**: End-to-end machine learning pipeline using YOLOv11 model to detect rooftop HVAC units from satellite images, integrated with Google Maps and a full-stack web application.
 - **[Stock Market Prediction Website](https://github.com/jivanandham/Stock-Predictor)**: React.js-based platform with real-time stock market data and AI-driven insights.
 - **[mHealth App](https://github.com/jivanandham/mHealth-Project3)**: A mobile health app for tracking user health metrics.
 - **[Facial Recognition ATM](https://github.com/jivanandham/Facial_Recognition_ATM)**: Secure and user-friendly ATM solution using facial recognition.
-- **[RTU Detection Application](https://github.com/jivanandham/rtu-detection-app)**: End-to-end machine learning pipeline using YOLOv11 model to detect rooftop HVAC units from satellite images, integrated with Google Maps and a full-stack web application.
+
 
 ## 🌟 Achievements
 - Arctic Code Vault Contributor 🏆
